@@ -1,6 +1,6 @@
 name: walsh
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.51238
 typography_spectrum: 0.15497
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d1c2a7'
-    - '#836108'
-    - '#1a150c'
     - '#ffffff'
-    - '#958d88'
-  brandStrength: 0.7715842700563371
+    - '#fe0000'
+    - '#010101'
+    - '#ff9293'
+    - '#6b6b6b'
+  brandStrength: 0.8125
   lightness: 0.7861627477686852
   saturation: 0.4619978158734739
   rhythmicContrast: 0.9024085691198707
