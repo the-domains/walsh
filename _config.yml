@@ -1,9 +1,7 @@
-favicon: null
 name: walsh
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2837515
+typography_spectrum: 0.15497
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4619978158734739
-  brandStrength: 0.8125
-  rhythmicContrast: 0.9024085691198707
   brandColors:
     - '#ffffff'
     - '#fe0000'
     - '#010101'
     - '#ff9293'
     - '#6b6b6b'
+  brandStrength: 0.1875
   lightness: 0.7861627477686852
-typography_spectrum: 0.15497
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2837515
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.4619978158734739
+  rhythmicContrast: 0.9024085691198707
+purpose: []
