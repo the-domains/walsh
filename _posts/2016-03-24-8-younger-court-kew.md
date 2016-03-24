@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: '8 Younger Court, Kew. Auction - Saturday 23rd March at 11:30 am.'
-datePublished: '2016-03-24T13:58:34.421Z'
-dateModified: '2016-03-24T13:58:27.009Z'
+description: '8 Younger Court, Kew. Auction '
+datePublished: '2016-03-24T13:59:17.664Z'
+dateModified: '2016-03-24T13:58:42.846Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-8-younger-court-kew.md
