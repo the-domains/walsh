@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[walsh]]></title>
-        <description><![CDATA[walsh]]></description>
+        <title><![CDATA[Walsh Cairnes & Co]]></title>
+        <description><![CDATA[Walsh Cairnes & Co]]></description>
         <link>https://thegrid.ai/walsh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 13:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 14:11:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/walsh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/walsh/8-younger-court-kew/index.html</link>
             <guid isPermaLink="false">f565a765-32bd-4f4c-a387-80658cfb1348</guid>
             <pubDate>Thu, 24 Mar 2016 13:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/walsh/4704b786-fc6d-4466-8bd1-f3359019bc78/index.html</link>
+            <guid isPermaLink="false">4704b786-fc6d-4466-8bd1-f3359019bc78</guid>
+            <pubDate>Thu, 24 Mar 2016 14:10:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
