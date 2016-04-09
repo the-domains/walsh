@@ -1,6 +1,6 @@
 name: walsh
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75185
 typography_spectrum: 0.49679
 title: null
 collections:
@@ -35,7 +35,7 @@ color:
     - '#B40203'
     - '#FB5441'
   brandStrength: 0.0625
-  lightness: 0.5625
-  saturation: 0.625
+  lightness: 0.4375
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
