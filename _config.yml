@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.4375
-  brandStrength: 0.2753883
-  lightness: 0.8125
+  saturation: 0.7855436
+  brandStrength: 0.8870967
+  lightness: 0.3769414
   brandColors:
-    - '#ffffff'
-    - '#ff0000'
-    - '#010101'
-    - '#ffadad'
-    - '#ff5b5b'
-  rhythmicContrast: 0.25
+    - '#040104'
+    - '#8A8688'
+    - '#FBFAFB'
+    - '#B40203'
+    - '#FB5441'
+  rhythmicContrast: 0.6051373
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: walsh
 favicon: null
+name: walsh
 opengraph:
   image: null
   type: null
