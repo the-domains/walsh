@@ -1,5 +1,8 @@
-title: 'Walsh Cairnes & Co'
-purpose: []
+name: walsh
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.15497
+title: null
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7855436
-  brandStrength: 0.8870967
-  lightness: 0.3769414
   brandColors:
     - '#040104'
     - '#8A8688'
     - '#FBFAFB'
     - '#B40203'
     - '#FB5441'
+  brandStrength: 0.8870967
+  lightness: 0.3769414
+  saturation: 0.7855436
   rhythmicContrast: 0.6051373
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: walsh
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.15497
-layout_spectrum: 0
+purpose: []
