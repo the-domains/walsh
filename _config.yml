@@ -34,8 +34,8 @@ color:
     - '#FBFAFB'
     - '#B40203'
     - '#FB5441'
-  brandStrength: 0.0625
-  lightness: 0.4375
-  saturation: 0
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
