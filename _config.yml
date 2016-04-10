@@ -35,7 +35,7 @@ color:
     - '#B40203'
     - '#FB5441'
   brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.8125
-  rhythmicContrast: 0
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
